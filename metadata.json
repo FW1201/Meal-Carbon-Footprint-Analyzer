@@ -1,0 +1,5 @@
+{
+  "name": "餐點碳足跡分析工具 (Meal Carbon Footprint Analyzer)",
+  "description": "An application that allows users to upload a photo of a meal, analyzes its ingredients using Gemini, and calculates the total carbon footprint, presenting a detailed report.",
+  "requestFramePermissions": []
+}
